@@ -5,6 +5,6 @@ Cómo usar foreign keys en entidades:
 1) crear un eschema con los atributos de la entidad sin foreign key.
 2) guardar el eschema.
 3) crear dataset en formato .csv (boton de la derecha de (download
-data").
+data")).
 4) crear otro schema y agregar el type de dataset column cuando
 se quiera usar un foreign key.
